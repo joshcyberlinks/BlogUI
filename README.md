@@ -1,2 +1,0 @@
-# BlogUI
-AUG BAUCHI BLOG
